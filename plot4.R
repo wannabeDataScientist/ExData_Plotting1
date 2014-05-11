@@ -1,3 +1,4 @@
+#PLEASE RUN THIS CODE IN R CONSOLE and not in R-STUDIO.THANKS
 # plot4.R - Assignment 1
 # Provides the code for reading the Household power consumption data
 # and create four plots for global active power, voltage,
