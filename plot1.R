@@ -1,3 +1,4 @@
+
 # plot1.R - Assignment 1
 # Provides the code for reading the Household power consumption data
 # and makes a histogram of global active power for two days in Feb 2007
