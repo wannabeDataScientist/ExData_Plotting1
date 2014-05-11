@@ -1,3 +1,4 @@
+#PLEASE RUN THIS CODE IN R CONSOLE and not in R-STUDIO.THANKS
 
 # plot1.R - Assignment 1
 # Provides the code for reading the Household power consumption data
