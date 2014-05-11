@@ -1,3 +1,4 @@
+#PLEASE RUN THIS CODE IN R CONSOLE and not in R-STUDIO.THANKS
 # plot3.R - Assignment 1
 # Provides the code for reading the Household power consumption data
 # and create four plots for energy sub metering(1,2,3) for two days in Feb 2007
